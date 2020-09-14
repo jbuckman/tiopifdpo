@@ -1,0 +1,9 @@
+numpy
+torch==1.4.0
+ipdb
+gym
+atari_py
+gym[all]
+pyyaml
+dill
+opencv-python
