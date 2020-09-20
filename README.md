@@ -1,4 +1,5 @@
 Code accompanying "The Importance of Pessimism in Fixed-Dataset Policy Optimization" by Buckman, Gelada, Bellemare.
+https://arxiv.org/abs/2009.06799
 
 The tabular experiments can be replicated with simply `experiment_performance_comparison.py` and `experiment_various_explorations.py`.
 
